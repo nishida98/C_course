@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1611608846 source:c:\estudo\c\hello-word\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1611597994 source:c:\estudo\c\hello-word\triangulo.c
+	<stdio.h>
+	<stdlib.h>
+
+1611599257 source:c:\estudo\c\hello-word\variables.c
+
+1611599718 source:c:\estudo\c\hello-word\datatypes.c
+
+1611600518 source:c:\estudo\c\hello-word\printf.c
+
+1611600818 source:c:\estudo\c\hello-word\numbers.c
+	<stdio.h>
+	<stdlib.h>
+
+1611609062 source:c:\estudo\c\hello-word\basiccalculator.c
+	<stdio.h>
+	<stdlib.h>
+
+1611610425 source:c:\estudo\c\hello-word\userinput.c
+	<stdio.h>
+	<stdlib.h>
+
