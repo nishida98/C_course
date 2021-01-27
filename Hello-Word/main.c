@@ -17,7 +17,11 @@ int main()
 
     //arrays();
 
-    sayName("Leo");
+    //sayName("Leo");
+
+   // printf("%d",max(1,2));
+
+   betterCalculator();
 
     return 0;
 }
